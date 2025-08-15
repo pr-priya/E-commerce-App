@@ -1,0 +1,1 @@
+export const server = "https://andromeda-api.fly.dev/api/v2";
