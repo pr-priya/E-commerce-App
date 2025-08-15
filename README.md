@@ -4,7 +4,7 @@ Andromeda is a full-stack marketplace-style e-commerce application built with Ne
 
 ## 🚀 Features
 
-- **Full-Stack Setup**- Next.js 13 frontend + Express.js backend
+- **Full-Stack Setup** - Next.js 13 frontend + Express.js backend
 - **Marketplace Functionality**- Multi-role dashboards (Seller & Customer)
 - **Real-Time Chat**- WebSocket-powered live messaging between sellers and customers
 - **Payments**- Integrated **Stripe** & **PayPal** payment gateways
