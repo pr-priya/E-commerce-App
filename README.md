@@ -28,7 +28,7 @@ Andromeda is a full-stack marketplace-style e-commerce application built with Ne
 
 ### Clone the repository
 ```shell
-git clone https://github.com/
+git clone https://github.com/pr-priya/E-commerce-App
 ```
 ### Navigate to project folder
 ```shell
