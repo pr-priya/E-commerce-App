@@ -16,13 +16,13 @@ Andromeda is a full-stack marketplace-style e-commerce application built with Ne
 
 ## 🛠️ Tech Stack
 
-- **Frontend**:Next.js 13 (React)
-- **Backend**:Express.js (Node.js)
-- **Database**:MongoDB (Mongoose)
-- **Real-Time**:WebSocket (Socket.io)
-- **Payments**:Stripe, PayPal
-- **Auth**:JWT
-- **Styling**:Tailwind CSS
+- **Frontend**: Next.js 13 (React)
+- **Backend**: Express.js (Node.js)
+- **Database**: MongoDB (Mongoose)
+- **Real-Time**: WebSocket (Socket.io)
+- **Payments**: Stripe, PayPal
+- **Auth**: JWT
+- **Styling**: Tailwind CSS
 
 ## 📦 Installation
 
